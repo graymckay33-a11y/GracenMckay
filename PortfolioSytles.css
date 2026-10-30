@@ -55,13 +55,13 @@ nav ul{
 nav a{
     color: #35332e;
     text-decoration: none;
-    font-size: clamp(14px, 1vw, 17px);
+    font-size: 28px;
 }
 nav a:hover{
     color: #c98268;
     }
 nav a.active{
-    color: #c98268;
+    color:#f2e9da;
     background-color:#35332e;
     border-radius: 5px;
 }
